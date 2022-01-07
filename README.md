@@ -29,4 +29,5 @@ It is advised **not to put commas in the name of your new patterns**, because it
     and deciding which one lives of dies (or in this case changes from 1 to 0)
 > start.py
 > 
-    This file is responsible for reading text files of predetermined patterns and pseudo-randomly creating new ones
+    This file is responsible for reading text files of predetermined 
+    patterns and pseudo-randomly creating new ones
